@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Location Updater</string>
+    <string name="title_activity_live_card_service">Location Updater Live Card</string>
+    <string name="action_stop">Stop</string>
+    <string name="location_updates_voice_trigger">start location updates</string>
+    <string name="message">Location updates are being sent to the server.\nUse the Stop menu item to prevent sending further location updates.</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Test2.iml" filepath="$PROJECT_DIR$/Test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glass/glass.iml" filepath="$PROJECT_DIR$/glass/glass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mobile/mobile.iml" filepath="$PROJECT_DIR$/mobile/mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/play-services-6.1.71/play-services-6.1.71.iml" filepath="$PROJECT_DIR$/play-services-6.1.71/play-services-6.1.71.iml" />
+    </modules>
+  </component>
+</project>
+
